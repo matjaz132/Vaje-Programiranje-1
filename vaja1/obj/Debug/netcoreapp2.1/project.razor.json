@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja1/vaja1.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
