@@ -1,0 +1,11 @@
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/bin/Debug/netcoreapp2.1/vaja2.deps.json
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/bin/Debug/netcoreapp2.1/vaja2.runtimeconfig.json
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/bin/Debug/netcoreapp2.1/vaja2.runtimeconfig.dev.json
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/bin/Debug/netcoreapp2.1/vaja2.dll
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/bin/Debug/netcoreapp2.1/vaja2.pdb
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/obj/Debug/netcoreapp2.1/vaja2.csprojAssemblyReference.cache
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/obj/Debug/netcoreapp2.1/vaja2.csproj.CoreCompileInputs.cache
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/obj/Debug/netcoreapp2.1/vaja2.AssemblyInfoInputs.cache
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/obj/Debug/netcoreapp2.1/vaja2.AssemblyInfo.cs
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/obj/Debug/netcoreapp2.1/vaja2.dll
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/vaja2/obj/Debug/netcoreapp2.1/vaja2.pdb

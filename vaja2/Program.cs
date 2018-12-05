@@ -15,6 +15,12 @@ namespace vaja2 {
             Console.WriteLine ("Vnesi stranico c: ");
             odgovor = Console.ReadLine ();
             int c = int.Parse (odgovor);
+
+            if (a + b > 6 && a + c > b & b + c > a) {
+                System.Console.WriteLine ("So stranice trikotnika");
+            } else {
+                System.Console.WriteLine ("Niso stranice trikotnika");
+            }
         }
     }
 }
