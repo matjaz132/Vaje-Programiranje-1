@@ -1,0 +1,11 @@
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/bin/Debug/netcoreapp2.1/Gostilne.deps.json
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/bin/Debug/netcoreapp2.1/Gostilne.runtimeconfig.json
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/bin/Debug/netcoreapp2.1/Gostilne.runtimeconfig.dev.json
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/bin/Debug/netcoreapp2.1/Gostilne.dll
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/bin/Debug/netcoreapp2.1/Gostilne.pdb
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/obj/Debug/netcoreapp2.1/Gostilne.csprojAssemblyReference.cache
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/obj/Debug/netcoreapp2.1/Gostilne.csproj.CoreCompileInputs.cache
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/obj/Debug/netcoreapp2.1/Gostilne.AssemblyInfoInputs.cache
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/obj/Debug/netcoreapp2.1/Gostilne.AssemblyInfo.cs
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/obj/Debug/netcoreapp2.1/Gostilne.dll
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/Gostilne/obj/Debug/netcoreapp2.1/Gostilne.pdb
