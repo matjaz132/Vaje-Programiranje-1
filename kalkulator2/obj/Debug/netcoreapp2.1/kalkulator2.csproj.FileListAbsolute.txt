@@ -1,0 +1,4 @@
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/kalkulator2/obj/Debug/netcoreapp2.1/kalkulator2.csprojAssemblyReference.cache
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/kalkulator2/obj/Debug/netcoreapp2.1/kalkulator2.csproj.CoreCompileInputs.cache
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/kalkulator2/obj/Debug/netcoreapp2.1/kalkulator2.AssemblyInfoInputs.cache
+/home/matjaz/Documents/šola/PRO1/Vaje-Programiranje-1/kalkulator2/obj/Debug/netcoreapp2.1/kalkulator2.AssemblyInfo.cs
